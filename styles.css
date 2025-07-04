@@ -1,0 +1,10 @@
+.card {
+    color:blueviolet;
+    background-color:aqua;
+    font-family: 'Lucida Sans';border: 1px solid black;
+
+}
+th, td {
+  border: 1px solid black;
+  padding-bottom: 20px
+}
